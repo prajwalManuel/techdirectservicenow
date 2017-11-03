@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Subcategory" max_length="40" name="x_127605_techdirec_subcategory" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Category" max_length="32" name="category" reference="x_127605_techdirec_category" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element display="true" label="Subcategory" max_length="100" name="subcategory" type="string"/>
+        <element label="Customone" max_length="100" name="u_customone" type="string"/>
+        <element label="Custom ckbox" max_length="40" name="u_custom_ckbox" type="boolean"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+    </element>
+</database>
