@@ -4,9 +4,27 @@
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Category" max_length="32" name="category" reference="x_127605_techdirec_category" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element display="true" label="Subcategory" max_length="100" name="subcategory" type="string"/>
+        <element label="Assignment Group" max_length="32" name="u_assignment_group" reference="sys_user_group" type="reference"/>
         <element label="Customone" max_length="100" name="u_customone" type="string"/>
         <element label="Custom ckbox" max_length="40" name="u_custom_ckbox" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Impact" max_length="40" name="u_impact" type="string">
+            <choice>
+                <element label="1 - High" sequence="0" value="1"/>
+                <element label="2 - Medium" sequence="1" value="2"/>
+                <element label="3 - Low" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Urgency" max_length="40" name="u_urgency" type="string">
+            <choice>
+                <element label="1 - High" sequence="0" value="1"/>
+                <element label="2 - Medium" sequence="1" value="2"/>
+                <element label="3 - Low" sequence="2" value="3"/>
+            </choice>
+        </element>
         <index name="index">
+            <element name="u_assignment_group"/>
+        </index>
+        <index name="index2">
             <element name="category"/>
         </index>
     </element>

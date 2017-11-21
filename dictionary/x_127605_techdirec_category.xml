@@ -3,5 +3,20 @@
     <element label="Category" max_length="40" name="x_127605_techdirec_category" type="collection">
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Domain" max_length="32" name="sys_domain" reference="domain" type="reference"/>
+        <element label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
+        <element choice="3" choice_field="type" choice_table="domain" default="MSP" label="Domain" max_length="80" name="u_field_name_1" reference="domain" type="reference">
+            <choice>
+                <element label="MSP" sequence="0" value="MSP"/>
+                <element label="Customer" sequence="1" value="Customer"/>
+                <element label="Vendor" sequence="2" value="Vendor"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="sys_domain_path"/>
+        </index>
+        <index name="index2">
+            <element name="sys_domain"/>
+        </index>
     </element>
 </database>

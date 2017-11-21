@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-11-21 10:20:03">
+    <sys_portal action="delete_multiple" query="page=591722ef4f120300aa7f4fe18110c7c7">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="TechDirect NOW | ESS Portal">591722ef4f120300aa7f4fe18110c7c7</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                <sys_id>0e2862634f520300aa7f4fe18110c79d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0a2862634f520300aa7f4fe18110c79f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>255f0d534f710300aa7f4fe18110c7eb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0e2862634f520300aa7f4fe18110c79e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>162862634f520300aa7f4fe18110c7a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=0f9019d34f710300aa7f4fe18110c74f&amp;amp;sysparm_catalog=255f0d534f710300aa7f4fe18110c7eb&amp;amp;sysparm_catalog_view=catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>1a2862634f520300aa7f4fe18110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>822862634f520300aa7f4fe18110c79f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>862862634f520300aa7f4fe18110c79e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>8e2862634f520300aa7f4fe18110c79d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>0f9019d34f710300aa7f4fe18110c74f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>922862634f520300aa7f4fe18110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>9a2862634f520300aa7f4fe18110c7a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>APJ [TechDirect Catalog NEW]</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>9e2862634f520300aa7f4fe18110c79f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">0e2862634f520300aa7f4fe18110c79d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>9e2862634f520300aa7f4fe18110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>591722ef4f120300aa7f4fe18110c7c7</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>2</offset>
+                <page display_value="TechDirect NOW | ESS Portal">591722ef4f120300aa7f4fe18110c7c7</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                <sys_id>5a2862634f520300aa7f4fe18110c7a8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>522862634f520300aa7f4fe18110c7ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=b1b019d34f710300aa7f4fe18110c7c5&amp;amp;sysparm_catalog=255f0d534f710300aa7f4fe18110c7eb&amp;amp;sysparm_catalog_view=catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>562862634f520300aa7f4fe18110c7aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>255f0d534f710300aa7f4fe18110c7eb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>562862634f520300aa7f4fe18110c7ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>5a2862634f520300aa7f4fe18110c7a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>d22862634f520300aa7f4fe18110c7a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>d62862634f520300aa7f4fe18110c7ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>AMS [TechDirect Catalog NEW]</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>da2862634f520300aa7f4fe18110c7a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>b1b019d34f710300aa7f4fe18110c7c5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>da2862634f520300aa7f4fe18110c7aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>da2862634f520300aa7f4fe18110c7ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>591722ef4f120300aa7f4fe18110c7c7</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>de2862634f520300aa7f4fe18110c7a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:33">5a2862634f520300aa7f4fe18110c7a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:33</sys_created_on>
+                        <sys_id>de2862634f520300aa7f4fe18110c7ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="TechDirect NOW | ESS Portal">591722ef4f120300aa7f4fe18110c7c7</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                <sys_id>8a2862634f520300aa7f4fe18110c794</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>022862634f520300aa7f4fe18110c796</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>022862634f520300aa7f4fe18110c798</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>062862634f520300aa7f4fe18110c795</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0a2862634f520300aa7f4fe18110c797</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>EMEA [TechDirect Catalog NEW]</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0e2862634f520300aa7f4fe18110c794</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>21c01dd34f710300aa7f4fe18110c718</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0e2862634f520300aa7f4fe18110c796</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>0e2862634f520300aa7f4fe18110c798</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>591722ef4f120300aa7f4fe18110c7c7</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>822862634f520300aa7f4fe18110c797</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=21c01dd34f710300aa7f4fe18110c718&amp;amp;sysparm_catalog=255f0d534f710300aa7f4fe18110c7eb&amp;amp;sysparm_catalog_view=catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>862862634f520300aa7f4fe18110c796</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>255f0d534f710300aa7f4fe18110c7eb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>862862634f520300aa7f4fe18110c798</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>catalog_techdirect_catalog_new</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-11-13 23:48:32">8a2862634f520300aa7f4fe18110c794</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-11-14 07:48:32</sys_created_on>
+                        <sys_id>8a2862634f520300aa7f4fe18110c795</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-11-14 07:48:32</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="Employee Self-Service">5767a89fc0a8016b012f6aecb0c816a4</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>TechDirect NOW</name>
+        <order/>
+        <parent_page display_value="Order Things">57f67b720a0a0bdd00f5f11df403c958</parent_page>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-14 07:43:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>591722ef4f120300aa7f4fe18110c7c7</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>TechDirect NOW</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Techdirect" source="x_127605_techdirec">bb2fcd934f710300aa7f4fe18110c733</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Techdirect">bb2fcd934f710300aa7f4fe18110c733</sys_scope>
+        <sys_update_name>content_page_591722ef4f120300aa7f4fe18110c7c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-14 07:48:33</sys_updated_on>
+        <title>TechDirect NOW | ESS Portal</title>
+        <url_suffix>techdirect_now</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>draft</workflow_state>
+    </content_page>
+</record_update>

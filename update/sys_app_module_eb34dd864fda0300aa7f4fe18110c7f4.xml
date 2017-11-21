@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_app_module">
+<record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="Incident">dead1309c611228701e2bda7b4252474</application>
@@ -12,35 +12,35 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>categories</mobile_title>
+        <mobile_title>Subcategories</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_127605_techdirec_category</name>
-        <order>801</order>
+        <name>x_127605_techdirec_subcategory</name>
+        <order>802</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_127605_techdirec.category_user</roles>
+        <roles>x_127605_techdirec.subcategory_user,x_127605_techdirec.TDcategory</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-11-03 05:36:45</sys_created_on>
+        <sys_created_by>admin.vijay</sys_created_by>
+        <sys_created_on>2017-11-09 09:51:02</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>9880e5c44f1a0300aa7f4fe18110c798</sys_id>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!#/!!!/</sys_domain_path>
+        <sys_id>eb34dd864fda0300aa7f4fe18110c7f4</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Categories</sys_name>
-        <sys_overrides/>
+        <sys_name>Subcategories</sys_name>
+        <sys_overrides display_value="Subcategories">f599e10c4f1a0300aa7f4fe18110c764</sys_overrides>
         <sys_package display_value="Techdirect" source="x_127605_techdirec">bb2fcd934f710300aa7f4fe18110c733</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Techdirect">bb2fcd934f710300aa7f4fe18110c733</sys_scope>
-        <sys_update_name>sys_app_module_9880e5c44f1a0300aa7f4fe18110c798</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-11-06 08:45:08</sys_updated_on>
+        <sys_update_name>sys_app_module_eb34dd864fda0300aa7f4fe18110c7f4</sys_update_name>
+        <sys_updated_by>admin.vijay</sys_updated_by>
+        <sys_updated_on>2017-11-09 09:57:24</sys_updated_on>
         <timeline_page/>
-        <title>Categories</title>
+        <title>Subcategories</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
